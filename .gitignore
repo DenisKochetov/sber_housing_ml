@@ -142,3 +142,14 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+#Catboost stuff
+
+*.xml
+*.iml
+*.tfevents
+*.tsv
+
+*.json
+
+/.idea
